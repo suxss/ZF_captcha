@@ -22,6 +22,10 @@ print(a)
 
 验证码图片与示例文件`code.jiff`类似，大小为`72x25`
 
+![示例](https://cdn.jsdelivr.net/gh/suxss/ZF_captcha/code.jfif)
+
+
+
 第三方库：
 
 ```
